@@ -5,7 +5,7 @@
 - Voice loudness - adequate
 - Rate of speech - adequate 
 - Keeping up - if you have [average type speed](https://onlinetyping.org/blog/average-typing-speed.php "average typing speed") and use emmet you should have no problems keeping up. I am at around 60 wpm, with a 94% accuray last time I checked.
-- Beginner friendliness - having
+- Beginner friendliness - having some previous knowledge will help if you encounter errors. That being said, this tutorial is extremly friendly, thus I don't think there will be any major issues.
 
 ## Overview
 It took me about 3 hours to finish the project, which was much shorter that I thought it would take. While I do have previous experience with JS/CSS/HTML, the only contact I had with frameworks such as React was then I created a basic RPG game in VUE.js. Nevertheless, even in that case I only use some basic functions like routing and conditional routing.
