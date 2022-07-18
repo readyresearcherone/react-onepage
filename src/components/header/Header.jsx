@@ -10,9 +10,9 @@ function Header() {
 
     <div id="home" className="container header__container">
 
-    <h5>H5 title</h5>
-    <h1>h1 title</h1>
-    <h5 className="text-light">Audio Description Researcher</h5>
+    <h5>React project base on a tutorial</h5>
+    <h1>React Project</h1>
+    <h5 className="text-light">Lorem ipsum description</h5>
     <CTA/>
     <HeaderSocials/>
 
