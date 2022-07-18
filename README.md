@@ -1,6 +1,6 @@
 # React portfolio
 ## [Tutorial](https://www.youtube.com/watch?v=G-Cr00UYokU "tutorial") rating
-- Explanations - almost everything is explain step by step. Even CSS, which most tutorials copy/paste.
+- Explanations - almost everything is explained step by step. Even CSS, which most tutorials just copy/paste.
 - Copy/Paste code - only when importing JSON data
 - Voice loudness - adequate
 - Rate of speech - adequate 
