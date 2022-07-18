@@ -50,13 +50,29 @@ overflow: hidden;
 padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
 
-.scroll__down{
+.scroll__down, #red, #blue, #green{
     position: absolute;
     right:-2.3rem;
     bottom:5rem;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
+    cursor: pointer;
+}
+
+#red{
+    bottom:14rem;
+    right:-0.6rem;
+}
+
+#blue {
+    bottom: 10rem;
+    right:-0.7rem;
+}
+
+#green{
+    bottom:18rem;
+    right:-1.2rem;
 }
 
 

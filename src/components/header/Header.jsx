@@ -3,6 +3,7 @@ import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/me.png'
 import HeaderSocials from './HeaderSocials'
+import theme1 from '../../theme'
 
 function Header() {
   return (
@@ -21,8 +22,9 @@ function Header() {
     </div>
 
     <a href="#contact" className='scroll__down'>Scroll Down</a>
-
-
+    <a id="red" >Red</a>
+        <a id="green" >Green</a>
+        <a id="blue" >Blue</a>
 
 
     </div>

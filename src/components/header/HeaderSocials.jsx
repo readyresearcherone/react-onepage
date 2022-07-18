@@ -1,6 +1,7 @@
 import React from 'react'
 import {FaLinkedinIn, FaGithub} from 'react-icons/fa'
 
+
 function HeaderSocials() {
   return (
     <div className='header__socials'>
